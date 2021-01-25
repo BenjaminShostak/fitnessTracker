@@ -1,0 +1,10 @@
+db.places.find().pretty()
+db.places.insert
+db.places.update(
+    To update multiple entries, you need to add `{multi: true}`
+$set` will create the field `exercise`
+
+* We can update the values in an array with `$push`:
+**Deleting**
+
+* We delete an entry with `db.[COLLECTION_NAME].remove()`
